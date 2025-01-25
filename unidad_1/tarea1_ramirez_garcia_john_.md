@@ -1,6 +1,7 @@
 
 <h1 align="center">Tarea 1 definición y análisis de SGBD</h1>
-## John Fredy Ramírez García
+<h2>John Fredy Ramírez García</h2>
+<dr/>
 ## Introdución:
 
 1.Tipos de SGBD a investigar: Deberás buscar información sobre al menos cinco
